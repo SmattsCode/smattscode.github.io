@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2026-04-21T10:15:04.734+01:00","dg-note-properties":{}}
 ---
 
 # Welcome to Smatt’s Code
@@ -12,7 +12,7 @@ I have a full time job and I'm married with 3 daughters who keep me busy, **VERY
 
 This little corner of the web is my digital garden.  This is a subset of my own Personal Knowledge Management System or [2nd Brain](https://www.buildingasecondbrain.com/) that I keep in an [Obsidian](https://obsidian.md/) vault.  This collection of notes are ones I find useful and that I am happy to share publicly with you.  However, some of them may link out to more personal or unfinished notes so you may come across links that either don't go any where or are missing altogether.
 
-Throughout my career I have always graciously used the wisdom of others. Be that in person, from blogs or that fountain of knowledge {Stack Overflow}(https://stackoverflow.com/). I have also tried to pay it forward by sharing my experiences and knowledge with those around me, either at work or techie meetups.
+Throughout my career I have always graciously used the wisdom of others. Be that in person, from blogs or that fountain of knowledge [Stack Overflow](https://stackoverflow.com/). I have also tried to pay it forward by sharing my experiences and knowledge with those around me, either at work or techie meetups.
 
 That’s what I want this digital garden to be. A place for me to share my knowledge and experiences with a bigger audience.  The good, the bad, and purely for entertainment the ugly! 
 
