@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/bigquery-creating-time-from-summed-parts/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-21T18:58:00.888+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
+{"dg-publish":true,"permalink":"/tech/bigquery-creating-time-from-summed-parts/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-21T19:47:21.988+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
 ---
 
 # BigQuery - Creating Time From Summed Parts
@@ -30,5 +30,5 @@ select
     mod(safe_cast(sum(DurationSeconds) as int64), 60)
   ) as time) as UsageDurationAsATime
 from
-  `database.scheme.table`
+  `<database>.<scheme>.<table>`
 ```
