@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2026-04-21T10:35:44.645+01:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"/","permalink":"/","pinned":true,"tags":["gardenEntry"],"updated":"2026-04-21T10:46:40.841+01:00","dg-note-properties":{}}
 ---
 
 # Welcome to Smatt’s Code
