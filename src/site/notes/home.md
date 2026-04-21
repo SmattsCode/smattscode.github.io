@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2026-04-21T10:15:04.734+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2026-04-21T10:35:44.645+01:00","dg-note-properties":{}}
 ---
 
 # Welcome to Smatt’s Code
@@ -18,4 +18,4 @@ That’s what I want this digital garden to be. A place for me to share my knowl
 
 I'm very interested in the idea of "working with the garage door up."  So this digital garden is a place to share my adventures as they are happening so we can learn together.  Or you can read about the pitfalls I will undoubtedly fall in (and avoid them) and use the shortcuts I (hopefully) find, so that in some small way *your* projects can benefit, or we just have a laugh along the way.
 
-In case you're interested you can read more about me [[about\|here]].
+In case you're interested you can read more [[about\|about]] me.
