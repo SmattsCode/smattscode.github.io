@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-21T09:55:38.480+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-21T19:50:24.083+01:00","dg-note-properties":{}}
 ---
 
 # About
 
-Hi I’m Smatt. I’m Dad to 3 gorgeous girls who keep me on my toes, and husband to an amazing and patient wife. I enjoy everything that means spending time with these 4 lovely ladies especially if it involves being at the beach or in the water. I also enjoy building and manipulating complex relational database systems using the many different flavours of SQL, and I love tinkering with gadgets such as the Raspberry Pi, dabbling with Linux distros, and some fairly basic coding projects. Basically I’m a techie at heart.
+Hi I’m Smatt. I’m Dad to 3 gorgeous girls who keep me on my toes, and husband to an amazing and patient wife. I enjoy everything that means spending time with these 4 lovely ladies especially if it involves being at the beach. I also enjoy building and manipulating complex relational database systems using the many different flavours of SQL, and I love tinkering with gadgets such as the Raspberry Pi, dabbling with Linux distros, and some fairly basic coding projects. Basically I’m a techie at heart.
 
 By day I’m a Database Developer for a mid-sized telecoms company, mostly working on the Google Cloud Platform (GCP). During my career I have used all the normal DB flavours from the open source MySQL/MariaDb and Postgres, to proprietery SQL Server and Oracle as well as the cloud based Azure and GCP. I have even dabbled in the dark art of NOSQL! I have used my skills in various “exciting” industries, from telecommunications and insurance to the glamorous world of incontinence products!
 
