@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/bigquery-creating-time-from-summed-parts/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-21T19:47:21.988+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
+{"dg-publish":true,"permalink":"/tech/bigquery-creating-time-from-summed-parts/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-22T10:41:38.973+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
 ---
 
 # BigQuery - Creating Time From Summed Parts
@@ -9,26 +9,26 @@ e.g.
 Convert 1 Hour, 79 Minutes and 65 Seconds to 02:20:05
 
 ```SQL
-select
-  cast(concat(
-    safe_cast(sum(DurationHours) as int64)
+SELECT
+  CAST(CONCAT(
+    SAFE_CAST(SUM(DurationHours) AS INT64)
     +
-    div(
-      safe_cast(sum(DurationMinutes) as int64)
+    DIV(
+      SAFE_CAST(sum(DurationMinutes) AS INT64)
       +
-      div(safe_cast(sum(DurationSeconds) as int64), 60)
+      DIV(SAFE_CAST(SUM(DurationSeconds) AS INT64), 60)
       ,60
     )
     ,":",
-    mod(
-      safe_cast(sum(DurationMinutes) as int64)
+    MOD(
+      SAFE_CAST(SUM(DurationMinutes) AS INT64)
       +
-      div(safe_cast(sum(DurationSeconds) as int64), 60)
+      DIV(SAFE_CAST(SUM(DurationSeconds) AS INT64), 60)
       ,60
     )
     ,":",
-    mod(safe_cast(sum(DurationSeconds) as int64), 60)
-  ) as time) as UsageDurationAsATime
-from
+    MOD(SAFE_CAST(SUM(DurationSeconds) AS INT64), 60)
+  ) AS TIME) AS UsageDurationAsATime
+FROM
   `<database>.<scheme>.<table>`
 ```

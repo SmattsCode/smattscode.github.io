@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-21T19:50:24.083+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-22T12:51:20.422+01:00","dg-note-properties":{"cssclasses":"hide-date-last-updated"}}
 ---
 
 # About
