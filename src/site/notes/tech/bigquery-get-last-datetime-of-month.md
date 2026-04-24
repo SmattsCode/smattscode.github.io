@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/bigquery-get-last-datetime-of-month/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-22T12:58:21.599+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
+{"dg-publish":true,"permalink":"/tech/bigquery-get-last-datetime-of-month/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-23T14:06:01.368+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
 ---
 
 # BigQuery - Last Date time Of Month
@@ -9,7 +9,8 @@ e.g.
 For the date '2026-04-22' it would return '2026-04-30 23:59:59'
 
 ```SQL
-SELECT DATETIME_ADD(DATETIME(LAST_DAY(CURRENT_DATE(), MONTH)), INTERVAL 86399 SECOND)
+SELECT
+  DATETIME_ADD(DATETIME(LAST_DAY(CURRENT_DATE(), MONTH)), INTERVAL 86399 SECOND)
 ```
 
 See Also:

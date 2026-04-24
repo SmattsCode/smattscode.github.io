@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/tech/bigquery-get-first-day-of-month/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-22T12:56:48.415+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
+{"dg-publish":true,"permalink":"/tech/bigquery-get-first-day-of-month/","tags":["CodeSnippet","Databases","BigQuery"],"updated":"2026-04-23T14:05:56.840+01:00","dg-note-properties":{"tags":["CodeSnippet","Databases","BigQuery"]}}
 ---
 
 # BigQuery - Get First Day Of Month
 Get the first day of the month for the current date.
 
 ```SQL
-SELECT DATE_TRUNC(CURRENT_DATE(), MONTH)
+SELECT
+  DATE_TRUNC(CURRENT_DATE(), MONTH)
 ```
 
 See Also:
