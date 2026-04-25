@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/self-actualisation/wheel-of-life-audit/","tags":["SelfEvaluation"],"updated":"2026-04-24T11:15:10.738+01:00","dg-note-properties":{"tags":["SelfEvaluation"]}}
+{"dg-publish":true,"permalink":"/self-actualisation/wheel-of-life-audit/","tags":["SelfEvaluation"],"updated":"2026-04-25T19:18:47.194+01:00","dg-note-properties":{"tags":["SelfEvaluation"]}}
 ---
 
 # Wheel of Life Audit
@@ -28,4 +28,4 @@ By completing a wheel of life audit it allows you to see very clearly the areas 
 - You are in balance across all the different areas of your life (because they all have the same score)
 - You are enjoying the journey along the way.
 
-Basically you are killing it on your journey to reaching your goals and enjoying the process of getting there!!!  What could be better than that?!
+Basically you are killing it on your journey to reaching your goals and enjoying the process of getting there!  What could be better than that?!
