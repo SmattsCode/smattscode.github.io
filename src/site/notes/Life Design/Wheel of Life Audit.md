@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/life-design/wheel-of-life-audit/","tags":["SelfEvaluation"],"updated":"2026-04-25T19:18:47.194+01:00","dg-note-properties":{"tags":["SelfEvaluation"]}}
+{"dg-publish":true,"permalink":"/life-design/wheel-of-life-audit/","tags":["SelfEvaluation"],"updated":"2026-04-27T10:13:05.564+01:00","dg-note-properties":{"tags":["SelfEvaluation"]}}
 ---
 
 # Wheel of Life Audit
 A way to rate key areas of your life and visualise it as segments of a radar-chart/circle/wheel etc.  You evaluate key areas of your life and give them a value between 0 and 10.  The idea is that you rate where you think you are now, or how aligned you are compared to where you want to be.  The chart allows you to see whats happening in a simple and concise way.
 
-![attachments/wheel-of-life.jpg\|400](/img/user/attachments/wheel-of-life.jpg)
+![WheelOfLife.jpg\|400](/img/user/attachments/WheelOfLife.jpg)
 
 The segments or life areas are completely customisable.  You can have more or less than the example above.  You get to choose what are important to *you*.  
 
