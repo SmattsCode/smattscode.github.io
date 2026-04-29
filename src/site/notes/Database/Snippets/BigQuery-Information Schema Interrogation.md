@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/database/snippets/big-query-information-schema-interrogation/","tags":["Type/CodeSnippet","Tech","Tech/Databases","Tech/Databases/BigQuery"],"updated":"2026-04-29T16:01:47.100+01:00","dg-note-properties":{"tags":["Type/CodeSnippet","Tech","Tech/Databases","Tech/Databases/BigQuery"]}}
+---
+
+# BigQuery - Information Schema Interogation
+
+```SQL
+SELECT
+  CONCAT(table_catalog, ".", table_schema, ".", table_name) AS TableName,
+  column_name AS ColumnName,
+  data_type AS DataType,
+  is_nullable AS Nullable,
+  IF(column_default = "NULL", "", column_default) AS DefaultValue,
+  is_partitioning_column as PartitioningColumn,
+  IF(clustering_ordinal_position > 0, "YES", "NO") AS ClusteringColumn,
+  COALESCE(CAST(clustering_ordinal_position AS STRING), "") AS ClusteringOrdinal
+FROM
+  `<database>.<scheme>.INFORMATION_SCHEMA.COLUMNS`
+ORDER BY
+  table_schema,
+  table_name,
+  ordinal_position
+```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-tech/python-virtual-environments/","tags":["CodeSnippet","Python"],"updated":"2026-04-23T14:35:35.144+01:00","dg-note-properties":{"tags":["CodeSnippet","Python"]}}
+{"dg-publish":true,"permalink":"/general-tech/python-virtual-environments/","tags":["Type/CodeSnippet","Tech","Tech/Python"],"updated":"2026-04-29T16:00:06.465+01:00","dg-note-properties":{"tags":["Type/CodeSnippet","Tech","Tech/Python"]}}
 ---
 
 # Basic Python Virtual Environment Commands

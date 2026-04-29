@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-22T17:01:25.613+01:00","dg-note-properties":{"cssclasses":"hide-date-last-updated"}}
+{"dg-publish":true,"permalink":"/about/","pinned":true,"updated":"2026-04-29T14:40:02.053+01:00","dg-note-properties":{}}
 ---
 
 # About
@@ -11,8 +11,6 @@ By day I’m a Database Developer for a mid-sized telecoms company, mostly worki
 During this time I have used my database skills to design, develop, maintain and improve all kinds of systems. From small productivity systems and WordPress sites all the way through to huge data warehouse systems for multinational corporations.
 
 Over the years one thing has always been true, it is very rare that you are the first person to come up against your current issue. Unless you’re an early adopter of the "latest new thing", there is usually someone that has come up against whatever problem you are facing. They have usually found (or been told) a way around it and even better they have shared it online for all of us to find.
-
-Throughout my career I have always graciously used the wisdom of others. Be that in person, from blogs or that fountain of knowledge Stack Overflow. I have also tried to pay it forward by sharing my experiences and knowledge with those around me, either at work or techie meetups.
 
 That’s what I want this digital garden to be. A place for me to share my knowledge and experiences (the good, the bad, and purely for entertainment the ugly!) with a bigger audience and another resource for you to find fixes for your DB (and other techie) problems.
 

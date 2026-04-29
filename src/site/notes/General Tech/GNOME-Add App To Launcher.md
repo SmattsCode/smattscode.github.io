@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-tech/gnome-add-app-to-launcher/","tags":["CodeSnippet","Linux","Gnome"],"updated":"2026-04-23T14:53:28.160+01:00","dg-note-properties":{"tags":["CodeSnippet","Linux","Gnome"]}}
+{"dg-publish":true,"permalink":"/general-tech/gnome-add-app-to-launcher/","tags":["Type/CodeSnippet","Tech","Tech/Linux","Tech/Linux/Gnome"],"updated":"2026-04-29T15:59:52.649+01:00","dg-note-properties":{"tags":["Type/CodeSnippet","Tech","Tech/Linux","Tech/Linux/Gnome"]}}
 ---
 
 

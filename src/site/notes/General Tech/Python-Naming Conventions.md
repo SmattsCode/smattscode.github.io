@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-tech/python-naming-conventions/","tags":["Python"],"updated":"2026-04-23T14:33:29.399+01:00","dg-note-properties":{"tags":["Python"]}}
+{"dg-publish":true,"permalink":"/general-tech/python-naming-conventions/","tags":["Tech","Tech/Python"],"updated":"2026-04-29T16:00:01.311+01:00","dg-note-properties":{"tags":["Tech","Tech/Python"]}}
 ---
 
 # Python Naming Conventions

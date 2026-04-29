@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life-design/wheel-of-life-audit/","tags":["SelfEvaluation"],"updated":"2026-04-27T10:13:05.564+01:00","dg-note-properties":{"tags":["SelfEvaluation"]}}
+{"dg-publish":true,"permalink":"/life-design/wheel-of-life-audit/","tags":["LifeDesign","SelfEvaluation"],"updated":"2026-04-28T17:39:03.001+01:00","dg-note-properties":{"tags":["LifeDesign","SelfEvaluation"]}}
 ---
 
 # Wheel of Life Audit

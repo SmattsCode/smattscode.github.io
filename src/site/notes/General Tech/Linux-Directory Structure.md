@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-tech/linux-directory-structure/","tags":["Linux"],"updated":"2026-04-23T14:18:13.417+01:00","dg-note-properties":{"tags":["Linux"]}}
+{"dg-publish":true,"permalink":"/general-tech/linux-directory-structure/","tags":["Tech","Tech/Linux"],"updated":"2026-04-29T15:59:58.952+01:00","dg-note-properties":{"tags":["Tech","Tech/Linux"]}}
 ---
 
 # Linux Directory Structure
