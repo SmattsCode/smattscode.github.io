@@ -835,7 +835,7 @@ module.exports = function(eleventyConfig) {
     return variable;
   });
 
-  eleventyConfig.addPlugin(pluginRss, {
+  eleventyConfig.addPlugin(pluginRss.default, {
     posthtmlRenderOptions: {
       closingSingleTag: "slash",
       singleTags: ["link"],
